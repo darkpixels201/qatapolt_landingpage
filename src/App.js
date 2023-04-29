@@ -1,9 +1,12 @@
 import './App.css';
+import Home from './Home/Home'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Qatapolt LandingPage</h1>
+    <div className="App"
+    //  style={{backgroundColor:"black"}} 
+     >
+      <Home />
     </div>
   );
 }

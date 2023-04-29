@@ -1,0 +1,85 @@
+/* @font-face {
+    font-family: 'ClashDisplay-Variable';
+    src: url('../Fonts/ClashDisplay-Variable.woff2') format('woff2'),
+         url('../Fonts/ClashDisplay-Variable.woff') format('woff'),
+         url('../Fonts/ClashDisplay-Variable.ttf') format('truetype');
+         font-weight: 200 700;
+         font-display: swap;
+         font-style: normal;
+  } */
+  
+/*   
+  @font-face {
+    font-family: 'ClashDisplay-Extralight';
+    src: url('../Fonts/ClashDisplay-Extralight.woff2') format('woff2'),
+         url('../Fonts/ClashDisplay-Extralight.woff') format('woff'),
+         url('../Fonts/ClashDisplay-Extralight.ttf') format('truetype');
+         font-weight: 200;
+         font-display: swap;
+         font-style: normal;
+  } */
+  
+  
+  /* @font-face {
+    font-family: 'Light';
+    src: url('../Fonts/helvetica-light-587ebe5a59211.ttf') format('truetype');
+         font-weight: 300;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+  
+  @font-face {
+    font-family: 'Regular';
+    src: url('../Fonts/Helvetica.ttf') format('truetype');
+         font-weight: 400;
+         font-display: swap;
+         font-style: normal;
+  } */
+
+  @font-face {
+    font-family: 'Regular';
+    src: url('../Fonts/Roboto-Regular.ttf') format('truetype');
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+
+  @font-face {
+    font-family: 'Light';
+    src: url('../Fonts/Roboto-Light.ttf') format('truetype');
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Medium';
+    src: url('../Fonts/Roboto-Medium.ttf') format('truetype');
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+  @font-face {
+     font-family: 'Bold';
+     src: url('../Fonts/Roboto-Bold.ttf') format('truetype');
+          font-weight: 700;
+          font-display: swap;
+          font-style: normal;
+   }
+
+  /* @font-face {
+    font-family: 'ClashDisplay-Semibold';
+    src: url('../Fonts/ClashDisplay-Semibold.woff2') format('woff2'),
+         url('../Fonts/ClashDisplay-Semibold.woff') format('woff'),
+         url('../Fonts/ClashDisplay-Semibold.ttf') format('truetype');
+         font-weight: 600;
+         font-display: swap;
+         font-style: normal;
+  } */
+  
+  
+
+  
