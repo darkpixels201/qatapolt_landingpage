@@ -1,5 +1,5 @@
 import React from "react";
-import { colors } from "../../utils/Colors";
+import { colors } from "../utils/Colors";
 
 function CustomButton(props) {
   return (
@@ -40,7 +40,9 @@ function CustomButton(props) {
             alignItems: "center",
           }}
         >
+          <div style={{paddingRight:10, display:"flex", justifyContent:"center"}} >
           {props.icon ? props.icon : null}
+          </div>
 
           <div style={{fontSize: 15 }}>{props.title}</div>
         </div>

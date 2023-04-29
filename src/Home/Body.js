@@ -49,8 +49,8 @@ const Body = () => {
                 borderRadius: 10,
                 padding: 10,
                 boxShadow: "2px 1px 15px -1px rgba(0,0,0,0.10)",
-                backgroundColor:"#ffff"
-
+                backgroundColor:"#ffff",
+                marginBottom:20,
               }}
             >
               <img src={item.image} style={{width:55, height:55}} />

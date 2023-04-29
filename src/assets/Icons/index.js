@@ -4,5 +4,5 @@ export const icons = {
   star: require("./star.png"),
   message: require("./message.png"),
   releasedplayer: require("./releasedplayer.png"),
-  
+  logo: require("./logo.png"),
 };

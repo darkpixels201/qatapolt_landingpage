@@ -95,10 +95,13 @@ const Features = () => {
           {featureData.map((item) => (
             <div
               style={{
-                width: 400,
+                width:window.innerWidth <= 459 ? 'auto' : 400,
                 marginTop: 20,
                 display: "flex",
-                paddingBottom: 70,
+                // paddingBottom: 70,
+                // padding:window.innerWidth <= 459 ? 20 : 50,
+                // paddingLeft:5,
+                // paddingRight:5,
                 // backgroundColor:"pink",
               }}
             >
@@ -115,6 +118,7 @@ const Features = () => {
                 {item.image}
               </div>
               <Spacer width={50} />
+              <Spacer height={110} />
               <div>
                 <CustomText
                   title={item.name}
@@ -142,7 +146,7 @@ const Features = () => {
           {featureData1.map((item) => (
             <div
               style={{
-                width: 400,
+                width:window.innerWidth <= 459 ? 'auto' : 400,
                 marginTop: 20,
                 display: "flex",
                 paddingBottom: 70,
