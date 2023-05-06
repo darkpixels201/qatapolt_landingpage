@@ -77,7 +77,7 @@ const Header = () => {
         )}
 
         <div>
-          <Spacer height={window.innerWidth <= 459 ? 60 : 0} />
+          <Spacer height={window.innerWidth <= 459 ? 100 : 0} />
           <img src={images.loginScreen} style={{ width: 230, height: 450 }} />
         </div>
       </div>

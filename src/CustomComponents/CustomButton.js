@@ -5,7 +5,7 @@ function CustomButton(props) {
   return (
     <div
       style={{
-        backgroundColor: props.backgroundColor,
+        backgroundColor: props.backgroundColor || "red",
         // backgroundGradient: <LinearGradient colors={["#8E59E2", "#f3f3f3"]} />,
         color: props.color || colors.black ,
         display: props.display || "flex",

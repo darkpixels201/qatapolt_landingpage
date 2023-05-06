@@ -1,7 +1,6 @@
 import React from "react";
-import { colors } from "../../utils/Colors";
-import "../../Assets/css/style.css";
 import { AiOutlineSearch } from "react-icons/ai";
+import { colors } from "../utils/Colors";
 
 const CustomSearchFilter = ({
   height,
